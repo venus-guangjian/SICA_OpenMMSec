@@ -1,4 +1,4 @@
-# 🛡️ SICA & OpenMMSec
+# 🛡️ [ICML'26] SICA & OpenMMSec
 **Official Repository for the ICML 2026 Paper:** *"Can We Build a Monolithic Model for Fake Image Detection? SICA: Semantic-Induced Constrained Adaptation for Unified-Yet-Discriminative Artifact Feature Space Reconstruction"*
 
 [![Paper](https://img.shields.io/badge/Paper-ArXiv-red.svg)](https://arxiv.org/pdf/2602.06676)
