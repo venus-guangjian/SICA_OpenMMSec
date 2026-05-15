@@ -2,7 +2,7 @@
 **Official Repository for the ICML 2026 Paper:** *"Can We Build a Monolithic Model for Fake Image Detection? SICA: Semantic-Induced Constrained Adaptation for Unified-Yet-Discriminative Artifact Feature Space Reconstruction"*
 
 [![Paper](https://img.shields.io/badge/Paper-ArXiv-red.svg)](https://arxiv.org/pdf/2602.06676)
-[![Dataset](https://img.shields.io/badge/Dataset-OpenMMSec-blue.svg)](https://pan.baidu.com/s/1NYB7obv_1G-ECRvOA4zBeA?pwd=vhxy)
+[![Dataset](https://img.shields.io/badge/Dataset-OpenMMSec-blue.svg)]()
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 > **Abstract:** Fake Image Detection (FID), aiming at unified detection across four image forensic subdomains, is critical in real-world forensic scenarios. Compared with ensemble approaches, monolithic FID models are theoretically more promising, but to date, consistently yield inferior performance in practice. In this work, by discovering the "heterogeneous phenomenon", which is the intrinsic distinctness of artifacts across subdomains, we diagnose the cause of this underperformance for the first time: the collapse of the artifact feature space driven by such phenomenon. The core challenge for developing a practical monolithic FID model thus boils down to the "unified-yet-discriminative" reconstruction of the artifact feature space. To address this paradoxical challenge, we hypothesize that high-level semantics can serve as a structural prior for the reconstruction, and further propose Semantic-Induced Constrained Adaptation (SICA), the first monolithic FID paradigm. Extensive experiments on our OpenMMSec dataset demonstrate that SICA outperforms 15 state-of-the-art methods and reconstructs the target unified-yet-discriminative artifact feature space in a near-orthogonal manner, thus firmly validating our hypothesis.
@@ -38,7 +38,7 @@ OpenMMSec aggregates data from **19** public forensic datasets and spans over **
 
 OpenMMSec is released under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license. Access to the dataset is granted exclusively to researchers from educational institutes and non-profit organizations. 
 
-You can download it via Baidu Netdisk: https://pan.baidu.com/s/1NYB7obv_1G-ECRvOA4zBeA?pwd=vhxy
+You can download it via Baidu Netdisk: (To be uploaded.)
 
 
 ---
