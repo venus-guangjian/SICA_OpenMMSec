@@ -47,8 +47,6 @@ You can download it via Baidu Netdisk: https://pan.baidu.com/s/1NYB7obv_1G-ECRvO
 
 The model code will be released ASAP.
 
-![SICA](imgs/finetune.png)
-
 ---
 
 ## 📜 Citation
