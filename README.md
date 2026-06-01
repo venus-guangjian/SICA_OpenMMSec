@@ -45,7 +45,19 @@ You can download it via Baidu Netdisk: https://pan.baidu.com/s/1NYB7obv_1G-ECRvO
 
 ## 🚀 Getting Started with SICA
 
-The model code will be released ASAP.
+We provide the inference and checkpoint pretrained using OpenMMSec in this repository.
+
+You can:
+
+1. Download the pretrained weights from the link: https://drive.google.com/drive/folders/109nJHqK-REXj5rvgpUOnzF4e0YPMBZbP?usp=sharing
+
+The checkpoint ending with "train" was trained using only the OpenMMSec training set, while the one ending with "full" was trained on the entire OpenMMSec dataset, including both the test set and the validation set.
+
+2. Install the required package.
+
+3. Run inference: python inference.py --image path/to/your/image.jpg --weight path/to/your/weights.pth
+
+We use the ForensicHub (https://github.com/scu-zjz/ForensicHub) for training. If you wish to retrain the model, you can either use the same ForensicHub framework or write your own training script. Please refer to the original paper for the relevant hyperparameters.
 
 ---
 
