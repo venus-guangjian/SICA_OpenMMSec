@@ -40,6 +40,7 @@ OpenMMSec is released under the Creative Commons Attribution-NonCommercial 4.0 I
 
 You can download it via Baidu Netdisk: https://pan.baidu.com/s/1NYB7obv_1G-ECRvOA4zBeA?pwd=vhxy
 
+Or by Google Drive: https://drive.google.com/file/d/1_rQHxS8zlQlXZY_e_TbRPIPSQFMgCTOT/view?usp=sharing
 
 ---
 
