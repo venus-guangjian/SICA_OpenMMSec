@@ -42,6 +42,8 @@ You can download it via Baidu Netdisk: https://pan.baidu.com/s/1NYB7obv_1G-ECRvO
 
 Or by Google Drive: https://drive.google.com/file/d/1_rQHxS8zlQlXZY_e_TbRPIPSQFMgCTOT/view?usp=sharing
 
+Or by huggingface: https://huggingface.co/datasets/dddb/OpenMMSec/tree/main
+
 ---
 
 ## 🚀 Getting Started with SICA
