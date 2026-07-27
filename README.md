@@ -62,6 +62,8 @@ The checkpoint ending with "train" was trained using only the OpenMMSec training
 
 We use the ForensicHub (https://github.com/scu-zjz/ForensicHub) for training. If you wish to retrain the model, you can either use the same ForensicHub framework or write your own training script. Please refer to the original paper for the relevant hyperparameters.
 
+This is a starting case for training and inference using the SICA model on the OpenMMSec dataset with ForensicHub, which can be used as a reference: https://github.com/scu-zjz/Strarting_case_for_ForensicHub_by_SICA.
+
 ---
 
 ## 📜 Citation
