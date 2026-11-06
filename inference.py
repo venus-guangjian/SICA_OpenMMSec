@@ -21,7 +21,7 @@ def main():
 
     # 2. 加载权重
     print(f"Loading weights from {args.weight}")
-    checkpoint = torch.load(args.weight, map_location="cpu", weights_only=False)
+    checkpoint = torch.load(args.weight, map_location="cpu", weights_only=True)
 
     # 兼容常见的 checkpoint 保存格式 (直接保存 state_dict，或者嵌套在 'model'/'state_dict' 键中)
     if "model" in checkpoint:
